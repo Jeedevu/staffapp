@@ -6,6 +6,6 @@ SurgeMind is an agentic AI system that predicts hospital surges and automaticall
 ## Acknowledgements
 
  - [Admin app](https://staffapp-ra8s.vercel.app/)
- - [Staff app  use mobile  fot better USE](https://github.com/matiassingers/awesome-readme)
+ - [Staff app  use mobile  fot better USE](https://surgestaff-8m79.vercel.app/)
  - [Staff app github ](https://github.com/Jeedevu/surgestaff)
 
