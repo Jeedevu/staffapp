@@ -1,0 +1,7 @@
+{
+  "name": "SurgeMind Staff App",
+  "description": "The SurgeMind Staff App enables hospital staff to complete assigned tasks, perform patient rounds, verify room visits via QR codes, respond to emergencies, and receive AI-driven instructions from the Surge Engine.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
